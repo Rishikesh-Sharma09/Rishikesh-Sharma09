@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ʜᴇʟʟᴏ+ᴍʏ+ɴᴀᴍᴇ+ɪꜱ+ɴᴀɴᴄʏ!;ᴀɴᴅ+ᴍʏ+ᴛᴇᴀᴍ+ɪꜱ+ᴍᴏᴠɪᴇ+ᴠɪʟʟᴀ!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🅗🅔🅛🅛🅞+🅜🅨+🅝🅐🅜🅔+🅘🅢+🅡🅚+🅑🅞🅣🅩!)
 </p>
 
 <p align="center">

@@ -2,10 +2,10 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝐌𝐨𝐯𝐢𝐞  𝐕𝐢𝐥𝐥𝐚">
+  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝐑𝐤 𝐛𝐨𝐭𝐳">
 </p>
 <h1 align="center">
-  𝐌𝐨𝐯𝐢𝐞  𝐕𝐢𝐥𝐥𝐚
+  𝐑𝐤 𝐛𝐨𝐭𝐳
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -14,13 +14,13 @@
 
 
 
-- 🔭 I’m currently working on [Tg Bot](https://telegram.dog/MovieVillaBots)
+- 🔭 I’m currently working on [Tg Bot](https://telegram.dog/Rk_botz)
 
 - 🌱 I’m currently learning **python, java**
 
 - 🤝 I’m looking for help with **Dev**
 
-- 👨‍💻 All of my projects are available [here](https://youtube.com/@MovieVillaYT)
+- 👨‍💻 All of my projects are available [here](https://telegram.dog/rk_botz)
 
 - 💬 Ask me about **Bot issues**
 
@@ -31,21 +31,20 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MovieVillaYT&show_icons=true&locale=en&layout=compact" alt="MovieVillaYT" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rk_botz&show_icons=true&locale=en&layout=compact" alt="Rk_botz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MovieVillaYT&show_icons=true&locale=en" alt="MovieVillaYT" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rk_botz&show_icons=true&locale=en" alt="Rk_botz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MovieVillaYT&" alt="MovieVillaYT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rk_botz&" alt="Rk_botz" /></p>
 
-### DONATE 👇
 
-![DONATE](https://telegra.ph/file/ce73268678bc5ff13c588.jpg)
+
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
 <p align="center">
-<a href="https://www.instagram.com/MovieVillaYT"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.dog/MovieVillaYT"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://youtube.com/@MovieVillaYT"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/rk_botz"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.dog/Rk_botz"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/@Rk_botz"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 <br>
 <br>

@@ -1,19 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🅗🅔🅛🅛🅞+🅜🅨+🅝🅐🅜🅔+🅘🅢+🅡🅚+🅑🅞🅣🅩+.+.+.+)
 </p>
 
-<p align="center">
-  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝐑𝐤 𝐛𝐨𝐭𝐳">
-</p>
-<h1 align="center">
-  𝐑𝐤 𝐛𝐨𝐭𝐳
-</h1>
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-
-
 - 🔭 I’m currently working on [Tg Bot](https://telegram.dog/Rk_botz)
 
 - 🌱 I’m currently learning **python, java**
@@ -27,15 +14,12 @@
 - ⚡ Fun fact **I think i am funny 😁**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
-
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishi09090909&show_icons=true&locale=en&layout=compact" alt="Rishi09090909" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishikesh-Sharma09&show_icons=true&locale=en&layout=compact" alt="Rishikesh-Sharma09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi09090909&show_icons=true&locale=en" alt="Rishi09090909" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishikesh-Sharma09&show_icons=true&locale=en" alt="Rishikesh-Sharma09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi09090909&" alt="Rishi09090909" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikesh-Sharma09&" alt="Rishikesh-Sharma09" /></p>
 
 
 

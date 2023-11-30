@@ -22,6 +22,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikesh-Sharma09&" alt="Rishikesh-Sharma09" /></p>
 
 
+## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
+![](https://github-profile-trophy.vercel.app/?username=Rishikesh-Sharma09 )
 
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>

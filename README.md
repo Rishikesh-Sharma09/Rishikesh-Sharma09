@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tg Bot](https://telegram.dog/Rk_botz)
 
-- 🌱 I’m currently learning **python, java**
+- 🌱 I’m currently learning **python**
 
 - 🤝 I’m looking for help with **Dev**
 
@@ -15,15 +15,15 @@
 
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishikesh-Sharma09&show_icons=true&locale=en&layout=compact" alt="Rishikesh-Sharma09" /></p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=Rishikesh-Sharma09&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/Rishikesh-Sharma09/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rishikesh-Sharma09&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh-Sharma09&layout=compact&theme=tokyonight" align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishikesh-Sharma09&show_icons=true&locale=en" alt="Rishikesh-Sharma09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikesh-Sharma09&" alt="Rishikesh-Sharma09" /></p>
 
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
-![](https://github-profile-trophy.vercel.app/?username=Rishikesh-Sharma09 )
+![](https://github-profile-trophy.vercel.app/?username=Rishikesh-Sharma09&theme=tokyonight )
 
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>

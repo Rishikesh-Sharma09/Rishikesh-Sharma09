@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🅗🅔🅛🅛🅞+🅜🅨+🅝🅐🅜🅔+🅘🅢+🅡🅚+🅑🅞🅣🅩+.+.+.+)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Rishikesh)
 </p>
 
 - 🔭 I’m currently working on [Tg Bot](https://telegram.dog/Rk_botz)
@@ -24,6 +24,10 @@
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
 ![](https://github-profile-trophy.vercel.app/?username=Rishikesh-Sharma09&theme=tokyonight )
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rishikesh-Sharma09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
